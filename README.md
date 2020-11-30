@@ -1,1 +1,1 @@
-# cbdWow.github.io
+# wow.github.io
